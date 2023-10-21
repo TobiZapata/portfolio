@@ -1,0 +1,29 @@
+.texto {
+  background: #ccc;
+  font-size: 3rem;
+  background: linear-gradient(#070a1d, #342370);
+  font-weight: 800;
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.texto2 {
+  background: #ccc;
+  font-size: 1.3rem;
+  background: linear-gradient(#615785, #141d52);
+  font-weight: 700;
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.boton {
+  padding-inline: 0.4em;
+  background: #ccc;
+  font-weight: 400;
+  background: linear-gradient(#746d8b, #2d3666);
+
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
