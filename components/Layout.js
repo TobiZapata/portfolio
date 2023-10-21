@@ -1,3 +1,4 @@
+"use client";
 import { Sora } from "next/font/google";
 import NavBar from "./navBar";
 import Footer from "./footer";

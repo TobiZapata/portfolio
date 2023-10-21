@@ -110,7 +110,7 @@ export default function Slides() {
       <div className="absolute top-[70%] left-[50%] w-full mx-8 max-w-[800px] -translate-x-[50%] md:-mt-10 mt-12 text-black dark:invert md:flex-none flex flex-col pr-12 md:pr-0">
         <h1>Technologies Involved: {slides[currentIndex].technologies}</h1>
         <h1></h1>
-        <h1>
+        <div>
           Github:{" "}
           <a
             target="_blank"
@@ -119,7 +119,7 @@ export default function Slides() {
           >
             {slides[currentIndex].github}
           </a>
-        </h1>
+        </div>
       </div>
     </>
   );

@@ -1,4 +1,3 @@
-"use client";
 import Atributos from "@/components/atributos";
 import Foto from "@/components/foto";
 
