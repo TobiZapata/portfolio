@@ -9,8 +9,8 @@ export default function Landing() {
     <>
       <div className="items-center justify-center flex relative w-screen h-screen">
         <motion.div className="flex dark:invert flex-col text-center border-md">
-          <h1 className={style.texto}>Tobias Zapata.</h1>
-          <h1 className={style.texto2}>fullstack web developer</h1>
+          <div className={style.texto}>Tobias Zapata.</div>
+          <div className={style.texto2}>fullstack web developer</div>
 
           <div className="self-center flex flex-row ">
             <motion.button
