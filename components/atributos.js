@@ -18,7 +18,8 @@ export default function Atributos() {
           }}
           transition={{ delay: 0.5, duration: 0.6, ease: "linear" }}
         >
-          •Full Stack Web Developer graduated from 'SoyHenry' bootcamp.
+          •Full Stack Web Developer graduated from &apos;SoyHenry&apos;
+          bootcamp.
         </motion.h1>
         <motion.h1
           className="py-3"
@@ -98,7 +99,8 @@ export default function Atributos() {
           }}
           transition={{ delay: 0.5, duration: 0.6, ease: "linear" }}
         >
-          •Full Stack Web Developer graduated from 'SoyHenry' bootcamp.
+          •Full Stack Web Developer graduated from &apos;SoyHenry&apos;
+          bootcamp.
         </motion.h1>
         <motion.h1
           className="py-3 pl-20 pr-28"
