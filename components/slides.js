@@ -11,7 +11,7 @@ export default function Slides() {
       name: "'Portfolio'",
       url: "slider1.png",
       technologies: "NextJS, TailwindCSS, FramerMotion",
-      github: "",
+      github: "https://github.com/TobiZapata/portfolio",
       link: "",
     },
     {
